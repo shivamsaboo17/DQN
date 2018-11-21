@@ -8,5 +8,3 @@ DQN implemented in keras. Learning to play Cartpole using Deep Q Learning.</br>
 - [x] Huber Loss for stability
 - [x] Dueling Networks
 - [x] Priotirized Replay
-- [x] Fixed q-targets
-
